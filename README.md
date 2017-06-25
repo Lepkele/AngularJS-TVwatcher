@@ -1,9 +1,10 @@
-## Starting Point for Developing Angular Apps
+## AngularJS training - TV watcher, TvMaze API
 
 ### Running the Project
 1) Open a command prompt in the project's root directory
 
 2) Type: `npm install`
+         'npm install yarn'
     This installs the dependencies as defined in the package.json file.
 
 3) Type: `npm start`
